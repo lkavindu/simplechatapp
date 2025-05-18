@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021244945644",
+    "project_id": "every-thing-there",
+    "storage_bucket": "every-thing-there.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021244945644:android:4710e4531950980ee9e1c9",
+        "android_client_info": {
+          "package_name": "com.example.simplechatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANoa9x_X9dQufBsqeg4XX-D9BFsK8_RPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
