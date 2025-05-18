@@ -1,4 +1,5 @@
 # simplechatapp
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Chat App for Beginner Level
+>>>>>>> 5bcf66263346382fc5385d2888a4ca84f09d07ca
